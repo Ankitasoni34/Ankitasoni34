@@ -1,7 +1,7 @@
-
+![logo](https://github.com/user-attachments/assets/7acbb4c5-2d9c-4a4e-b510-5ac35cb1ee29)
 <h1 align="center">Hi 👋, I'm Ankita Soni</h1>
 <h3 align="center">A passionate Hardware Engineer developer from India</h3>
-
+<img align ="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/1cdd69ed-b7d1-422d-9625-b1ddd0aaaf72">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitasoni34" alt="ankitasoni34" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ankita-soni-24a49b294/](https://www.linkedin.com/in/ankita-soni-24a49b294/)

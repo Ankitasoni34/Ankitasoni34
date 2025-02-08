@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/7acbb4c5-2d9c-4a4e-b510-5ac35cb1ee29)
+![logo](https://github.com/user-attachments/assets/3c436f08-6857-44de-b2d0-2256ac106d90)
+
 <h1 align="center">Hi 👋, I'm Ankita Soni</h1>
 <h3 align="center">A passionate Hardware Engineer developer from India</h3>
 <img align ="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/1cdd69ed-b7d1-422d-9625-b1ddd0aaaf72">

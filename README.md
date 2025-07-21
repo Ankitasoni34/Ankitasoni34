@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/3c436f08-6857-44de-b2d0-2256ac106d90)
 
 <h1 align="center">Hi 👋, I'm Ankita Soni</h1>
-<h3 align="center">A passionate Hardware Engineering Student from India</h3>
+<h3 align="center">A passionate Electronics and Communication Engineering Student from India</h3>
 <img align ="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/1cdd69ed-b7d1-422d-9625-b1ddd0aaaf72">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitasoni34" alt="ankitasoni34" /></a> </p>
 

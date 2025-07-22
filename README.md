@@ -1,13 +1,12 @@
 ![logo](https://github.com/user-attachments/assets/3c436f08-6857-44de-b2d0-2256ac106d90)
 
 <h1 align="center">Hi 👋, I'm Ankita Soni</h1>
-<h3 align="center">A passionate Electronics and Communication Engineering Student from India</h3>
-<img align ="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/1cdd69ed-b7d1-422d-9625-b1ddd0aaaf72">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitasoni34" alt="ankitasoni34" /></a> </p>
+<h2 align="left"> 👤 About Me</h2>
+<h4 align="left"> ⚪ 📖 I am pursuing BTech in <b>Electronics and Communication Engineering (AI & Cybernetics)</b>.</h4>
+<h4 align="left"> ⚪ 💻 I am currently working in Data Structures and Algorithms</h4>
+<h4 align="left"> ⚪ 🌍 I am looking to collaborate on New Projects</h4>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ankita-soni-24a49b294/](https://www.linkedin.com/in/ankita-soni-24a49b294/)
-
-- 📫 How to reach me **soniankita087@gmail.com**
+⚪📫 How to reach me **soniankita087@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
